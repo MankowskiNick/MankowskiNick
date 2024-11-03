@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MankowskiNick
-- 👀 I’m interested in Mathematics and Computer Science!
-- 🌱 I’m currently double majoring in Mathematics and Computer Science at Ohio Wesleyan University
+- 👀 I’m interested in software engineering, mathematical modeling, and lots of problems existing in the intersection of math and computer science.  This includes, but is not limited to computer graphics, scientific computing, and optimization problems.
+- 🌱 I’m currently in my senior year at Ohio Wesleyan University, where I am double majoring in Mathematics and Computer Science.
 - 📫 You can reach me by email at nnmankowski@owu.edu
 
 <!---
