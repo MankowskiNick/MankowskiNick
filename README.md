@@ -12,9 +12,9 @@
 ## 🛠️ Featured Projects
 - 🚦 **[Traffic Simulator](https://github.com/MankowskiNick/traffic-simulator)**  
   Modeled single- and multi-lane traffic flow using delay differential equations. Submitted paper to *Transportation Research Part B* ([arXiv](http://arxiv.org/abs/2501.01988)).
-<!---
+
 - 🪵 **[Log Dawg](https://github.com/MankowskiNick/log-dawg)**  
-  Python tool that uses LLMs to generate diagnostic summaries from log files (JSON & unstructured), with API support and git context parsing.--->
+  Python tool that uses LLMs to generate diagnostic summaries from log files (JSON & unstructured), with API support and git context parsing.
 
 - ⛏️ **[Malloc-Craft](https://github.com/MankowskiNick/malloc-craft)**  
   A Minecraft-style voxel engine in C with OpenGL, optimized chunk rendering, and real-time editing.
