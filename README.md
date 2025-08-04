@@ -13,8 +13,8 @@
 - 🚦 **[Traffic Simulator](https://github.com/MankowskiNick/traffic-simulator)**  
   Modeled single- and multi-lane traffic flow using delay differential equations. Submitted paper to *Transportation Research Part B* ([arXiv](http://arxiv.org/abs/2501.01988)).
 
-- 🥣 **[Cerialize](https://github.com/MankowskiNick/cerialize)**
-  Cerialize is a lightweight, single-header JSON deserializer written in C. It provides a simple API for parsing JSON strings into C data structures, with robust error handling and support for core JSON types.
+- 🥣 **[Cerialize](https://github.com/MankowskiNick/cerialize)**  
+  Cerialize is a lightweight, single-header JSON deserializer written in C.
 
 - 🪵 **[Log Dawg](https://github.com/MankowskiNick/log-dawg)**  
   Python tool that uses LLMs to generate diagnostic summaries from log files (JSON & unstructured), with API support and git context parsing.
